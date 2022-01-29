@@ -1,0 +1,22 @@
+{
+  "name": "cu2022",
+  "version": "1.0.0",
+  "description": "cu hackathon 2022",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divpatel10/cu-hkathon.git"
+  },
+  "keywords": [
+    "cuhackaton"
+  ],
+  "author": "jebb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divpatel10/cu-hkathon/issues"
+  },
+  "homepage": "https://github.com/divpatel10/cu-hkathon#readme"
+}
