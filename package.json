@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/divpatel10/cu-hkathon#readme",
   "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10",
     "fullcalendar": "^5.10.1",
     "pdfjs-dist": "^2.12.313"
   },
