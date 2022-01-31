@@ -32,8 +32,10 @@ var finalData = []
 var temp = []
 
 function populateCalendarr(scheduleArray){
+    randomNum = Math.floor(Math.random() * scheduleArray.length);
+    console.log("RANDOM", randomNum)
     console.log("EEEE", scheduleArray[0])
-  temp =   formatScheduleJSON(scheduleArray[2])
+  temp =   formatScheduleJSON(scheduleArray[randomNum])
     console.log("teemp",temp)
     getSCHS(temp)
 }
